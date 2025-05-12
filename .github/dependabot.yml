@@ -7,8 +7,8 @@ updates:
     labels:
       - "triage-required"
     assignees:
-      - "dungeonstechlead"
+      - "niallpat"
     reviewers:
-      - "dragonsengineer"
+      - "niallpat"
     commit-message:
       prefix: "pip"
