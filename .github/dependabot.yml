@@ -6,9 +6,5 @@ updates:
       interval: "daily"
     labels:
       - "triage-required"
-    assignees:
-      - "niallpat"
-    reviewers:
-      - "niallpat"
     commit-message:
       prefix: "pip"
